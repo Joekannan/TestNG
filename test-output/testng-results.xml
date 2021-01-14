@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="100216" started-at="2021-01-14T04:01:55Z" finished-at="2021-01-14T04:03:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="100216" started-at="2021-01-14T04:01:55Z" finished-at="2021-01-14T04:03:35Z">
+      <class name="testNGMethods.DataProviderWithExcel">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="setUp" is-config="true" duration-ms="13838" started-at="2021-01-14T17:01:56Z" description="This test is to set up the browser" finished-at="2021-01-14T17:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginandLogout(java.lang.String, java.lang.String)[pri:-1, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="verifyLoginandLogout" duration-ms="15315" started-at="2021-01-14T17:02:09Z" description="This test is to login" data-provider="loginData" finished-at="2021-01-14T17:02:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sampletest@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginandLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="tearDown" is-config="true" duration-ms="691" started-at="2021-01-14T17:02:25Z" description="This test is to tidy up the driver" finished-at="2021-01-14T17:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="setUp" is-config="true" duration-ms="13225" started-at="2021-01-14T17:02:25Z" description="This test is to set up the browser" finished-at="2021-01-14T17:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginandLogout(java.lang.String, java.lang.String)[pri:-1, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="verifyLoginandLogout" duration-ms="20652" started-at="2021-01-14T17:02:39Z" description="This test is to login" data-provider="loginData" finished-at="2021-01-14T17:02:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sampletest774@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginandLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="tearDown" is-config="true" duration-ms="686" started-at="2021-01-14T17:02:59Z" description="This test is to tidy up the driver" finished-at="2021-01-14T17:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="setUp" is-config="true" duration-ms="12697" started-at="2021-01-14T17:03:00Z" description="This test is to set up the browser" finished-at="2021-01-14T17:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginandLogout(java.lang.String, java.lang.String)[pri:-1, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="verifyLoginandLogout" duration-ms="21759" started-at="2021-01-14T17:03:13Z" description="This test is to login" data-provider="loginData" finished-at="2021-01-14T17:03:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sampletest934@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginandLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNGMethods.DataProviderWithExcel@39ba5a14]" name="tearDown" is-config="true" duration-ms="676" started-at="2021-01-14T17:03:34Z" description="This test is to tidy up the driver" finished-at="2021-01-14T17:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNGMethods.DataProviderWithExcel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
